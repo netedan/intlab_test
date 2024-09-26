@@ -4,6 +4,8 @@
     <ul>
         <li>
             <a href="{{ route('user_create') }}">Add user</a>
+            <a href="{{ route('auth') }}">Login page</a>
+            <a href="{{ route('logout') }}">Logout</a>
         </li>
     </ul>
 </div>
